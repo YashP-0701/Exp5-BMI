@@ -7,7 +7,7 @@ class App extends Component {
   constructor(){
     super();
     this.state = {
-      title: "BMI Calculator" 
+      title: "BMI Calculator By Yash" 
     }
   } 
 
